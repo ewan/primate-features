@@ -11,6 +11,18 @@
             - See also the paper (http://asa.scitation.org/doi/full/10.1121/1.4954887)
         - Then make sure that we have tools to easily write other feature extraction scripts or modules with the same input and output
     - ABX - start by doing tests for the following comparisons:
-      - ...
+      - Campbell: K+ vs W+
+      - Campbell: K+ vs H
+      - Campbell: K vs H
+      - Blue Fuller: H vs P
+      - Blue Fuller: H+ vs P
+      - Blue Fuller: A vs H
+      - Blue Fuller: A vs H+
+      - Blue Fuller: A* vs H
+      - Blue Fuller: A* vs H+
+      - Blue Murphy: P vs H
+      - Putty: P vs H
+      - Titi: A vs B
+      - Colobus: R vs S
 3. Comparison of two different sets of labels for Blue monkeys
     - James Fuller and Derek Murphy propose two different classification schemes for the calls of Blue monkeys. Once we have a good set of features, a good first step for using them would be to try and evaluate which of these two classification schemes is "better" in some well defined sense.
